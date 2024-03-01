@@ -1,0 +1,569 @@
+
+
+@font-face {
+    font-family: 'poppins';
+    src: url('./funt/Poppins-Regular.ttf') format('truetype');
+}
+
+body{
+    font-family: 'Roboto', ;
+    font-family: 'poppins', sans-serif;;
+    background-color: rgba(30,29,43,255);
+    
+
+}
+
+/*-----------------cabeña----------------*/
+
+header .h1{
+    position: absolute;
+    color: #fe712a;
+    font-size: 3em;
+    top: 1em;
+    left: 2em;
+}
+
+.h2{
+    position: absolute;
+    color: white;
+    font-size: 2em;
+    top: 1.7em;
+    left: 32em;
+}
+
+.h3{
+    position: absolute;
+    color: white;
+    font-size: 2em;
+    top: 1.7em;
+    left: 37em;
+}
+
+.h4{
+    position: absolute;
+    color: white;
+    font-size: 2em;
+    top: 1.7em;
+    left: 42em;
+}
+
+.h5{
+    position: absolute;
+    color: white;
+    font-size: 2em;
+    top: 1.7em;
+    left: 47em;
+}
+
+.h6{
+    position: absolute;
+    color: white;
+    font-size: 2em;
+    top: 1.7em;
+    left: 53em;
+}
+
+/*-----------section ones----------*/
+
+#sec1{
+    position: relative;
+}
+
+.a1{
+    position: absolute;
+    color: #fe712a;
+    font-size: 7em;
+    top: 2em;
+    left: 2.4em;
+}
+
+.a2{
+    position: absolute;
+    color: white;
+    font-size: 3em;
+    top: 9em;
+    left: 5.6em;
+}
+
+.a3{
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    top: 21em;
+    left: 8.4em;
+    background-color: #fe712a;
+    text-decoration: none;
+    width: 9em;
+    height: 2em;
+    padding-top: 0.2em;
+}
+
+.a4{
+    position: absolute;
+    top: 13em;
+    left: 68em;
+}
+
+/*--------------la mala pa movistar--------------*/
+
+
+.b1{
+    position: absolute;
+    color: #fe712a;
+    font-size: 1.8em;
+    top: 44em;
+    left: 31em;
+}
+
+.b2{
+    position: absolute;
+    color: white;
+    font-size: 4.5em;
+    top: 18em;
+    left: 12em;
+}
+
+.b3{
+    position: absolute;
+    color: white;
+    font-size: 1.8em;
+    top: 53em;
+    left: 30em;
+}
+
+.b4 a{
+    position: absolute;
+    text-decoration: none;
+    background-color: #fe712a;        
+    color: white;
+    font-size: 2em;
+    top: 53em;
+    left: 27em;
+    width: 9em;
+    height: 2em;
+    text-align: center;
+    padding-top: 0.2em;
+}
+
+.b5 img{
+    position: absolute;
+    top: 82em;
+    left: 10em;
+}
+
+/*------------------que bien un veterinario, lo que se necesita para la industria de la carne
+                    --maduro, alias super bigote--------------*/
+
+#sec3{
+    position: relative;
+}
+
+.c1{
+    position: absolute;
+    color: #fe712a;
+    font-size: 1.8em;
+    top: 75em;
+    left: 32em;
+}
+
+.c2{
+    position: absolute;
+    color: white;
+    font-size: 4.5em;
+    top: 31em;
+    left: 7em;
+}
+
+.c3 p{
+    position: absolute;
+    top: 150em;
+    left: 6em;
+    background-color: rgba(255,239,232,255);
+    border-radius: 8px;
+    width: 35em;
+    height: 38em;
+}
+
+.c3 img{
+    position: absolute;
+    top: 155em;
+    left: 13em;
+}
+
+.c3 h2{
+    position: absolute;
+    font-size: 2em;
+    top: 87em;
+    left: 7em;
+}
+
+.c3 h3{
+    position: absolute;
+    font-size: 1.8em;
+    top: 99em;
+    left: 9em;
+}
+
+.c3 h4{
+    position: absolute;
+    color: #fe712a;
+    font-size: 1.8em;
+    top: 101em;
+    left: 10em;
+}
+
+/*haburguejas al vapor*/
+
+.c4 p{
+    position: absolute;
+    top: 150em;
+    left: 44em;
+    background-color: rgba(255,239,232,255);
+    border-radius: 8px;
+    width: 35em;
+    height: 38em;
+}
+
+.c4 img{
+    position: absolute;
+    top: 155em;
+    left: 51em;
+}
+
+.c4 h2{
+    position: absolute;
+    font-size: 2em;
+    top: 87em;
+    left: 26em;
+}
+
+.c4 h3{
+    position: absolute;
+    font-size: 1.8em;
+    top: 99em;
+    left: 31em;
+}
+
+.c4 h4{
+    position: absolute;
+    color: #fe712a;
+    font-size: 1.8em;
+    top: 101em;
+    left: 33em;
+}
+
+/*---------pura reniza----------*/
+
+.c5 p{
+    position: absolute;
+    top: 150em;
+    left: 82em;
+    background-color: rgba(255,239,232,255);
+    border-radius: 8px;
+    width: 35em;
+    height: 38em;
+}
+
+.c5 img{
+    position: absolute;
+    top: 155em;
+    left: 90em;
+}
+
+.c5 h2{
+    position: absolute;
+    font-size: 2em;
+    top: 87em;
+    left: 46em;
+}
+
+.c5 h3{
+    position: absolute;
+    font-size: 1.8em;
+    top: 99em;
+    left: 53em;
+}
+
+.c5 h4{
+    position: absolute;
+    color: #fe712a;
+    font-size: 1.8em;
+    top: 101em;
+    left: 54em;
+}
+
+
+/*-----------------ñervisios----------------*/
+
+
+#sec4{
+    position: relative;
+}
+
+.d1{
+    position: absolute;
+    color: #fe712a;
+    font-size: 1.8em;
+    top: 120em;
+    left: 33em;
+}
+
+.d2{
+    position: absolute;
+    color: white;
+    font-size: 4.5em;
+    top: 49em;
+    left: 6em;
+}
+
+.d3 img{
+    position: absolute;
+    top: 240em;
+    left: 10em;
+}
+
+.d4 img{
+    position: absolute;
+    top: 240em;
+    left: 48em;
+}
+
+.d5 img{
+    position: relative;
+    top: 234em;
+    left: 86em;
+}
+
+.d6{
+    position: absolute;
+    color: #fe712a;
+    font-size: 3em;
+    top: 90em;
+    left: 6em;
+}
+
+.d7{
+    position: absolute;
+    color: #fe712a;
+    font-size: 3em;
+    top: 90em;
+    left: 19em;
+}
+
+.d8{
+    position: absolute;
+    color: #fe712a;
+    font-size: 3em;
+    top: 90em;
+    left: 32em;
+}
+
+.d9{
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    font-size: 2.4em;
+    top: 115em;
+    left: 2em;
+}
+
+.d10{
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 2.4em;
+    top: 115em;
+    left: 19em;
+}
+
+.d11{
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 2.4em;
+    top: 115em;
+    left: 35em;
+}
+
+/*--------------pimp name slick back--------------*/
+
+.e1{
+    position: absolute;
+    top: 310em;
+    left: 11em;
+    background-color: rgba(255,239,232,255);
+    width: 100em;
+    border-radius: 8px;
+    height: 35em;
+}
+
+.e2{
+    position: absolute;
+    text-align: center;
+    font-size: 4.8em;
+    top: 66em;
+    left: 7em;
+}
+
+.e3{
+    position: absolute;
+    top: 336em;
+    left: 50em;
+    background-color: #fe712a;
+    width: 20em;
+    height: 5em;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.e3 a{
+    position: absolute;
+    top: 0.5em;
+    right: 2.1em;
+    font-size: 2em;
+    text-decoration: none;
+    color: white;
+    text-align: center ;
+}
+
+/*---------------ya lo ultimo-------------------*/
+
+#sec6{
+    position: relative;
+}
+
+.f1{
+    position: absolute;
+    color: white;
+    font-size: 3em;
+    top: 123em;
+    left: 3em;
+}
+
+.f2{
+    position: absolute;
+    color: white;
+    font-size: 3em;
+    top: 123em;
+    left: 12em;
+}
+
+.f3{
+    position: absolute;
+    color: white;
+    font-size: 3em;
+    top: 123em;
+    left: 22em;
+}
+
+.f4{
+    position: absolute;
+    color: white;
+    font-size: 3em;
+    top: 123em;
+    left: 31em;
+}
+
+.f5{
+    position: absolute;
+    background-color: #fe712a;
+    border-radius: 8px;
+    height: 0.3em;
+    width: 20em;
+    top: 375em;
+    left: 9em;
+}
+
+.f6{
+    position: absolute;
+    background-color: #fe712a;
+    border-radius: 8px;
+    height: 0.3em;
+    width: 20em;
+    top: 375em;
+    left: 36em;
+}
+
+.f7{
+    position: absolute;
+    background-color: #fe712a;
+    border-radius: 8px;
+    height: 0.3em;
+    width: 20em;
+    top: 375em;
+    left: 66em;
+}
+
+.f8{
+    position: absolute;
+    background-color: #fe712a;
+    border-radius: 8px;
+    height: 0.3em;
+    width: 20em;
+    top: 375em;
+    left: 93em;
+}
+
+.f9{
+    position: absolute;
+    font-size: 2.5em;
+    color: white;
+    top: 151em;
+    left: 4em;
+}
+
+.f10{
+    position: absolute;
+    font-size: 2.5em;
+    color: white;
+    top: 151em;
+    left: 15em;
+}
+
+.f11{
+    position: absolute;
+    font-size: 2.5em;
+    color: white;
+    top: 151em;
+    left: 27em;
+}
+
+.f12{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #fe712a;
+    border-radius: 50%;
+    top: 377em;
+    left: 95em;
+}
+.f13{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #fe712a;
+    border-radius: 50%;
+    top: 377em;
+    left: 100em;
+}
+
+.f13{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #fe712a;
+    border-radius: 50%;
+    top: 377em;
+    left: 100em;
+}
+
+.f14{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #fe712a;
+    border-radius: 50%;
+    top: 377em;
+    left: 105em;
+}

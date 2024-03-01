@@ -19,8 +19,8 @@ header .h1{
     position: absolute;
     color: #fe712a;
     font-size: 3em;
-    top: 1em;
-    left: 2em;
+    top: 5vh;
+    left: 5vw;
 }
 
 .h2{
@@ -289,8 +289,8 @@ header .h1{
     position: absolute;
     color: #fe712a;
     font-size: 1.8em;
-    top: 101em;
-    left: 54em;
+    top: 101vh;
+    left: 90vh;
 }
 
 
